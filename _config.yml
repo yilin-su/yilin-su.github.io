@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Yilin Su"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at<br>University College London"
-  location         : "London, UK"
-  employer         : #"University College London"
+  bio              : "Research Fellow at <br>University of Sussex"
+  location         : "Brighton, UK"
+  employer         : #"University of Sussex"
   uri              : # URL
-  email            : "yilin.su@ucl.ac.uk" 
+  email            : "yilin.su@sussex.ac.uk" 
 
   # Academic websites
   academia         : # URL
